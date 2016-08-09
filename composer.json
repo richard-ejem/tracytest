@@ -1,0 +1,6 @@
+{
+    "name": "richardejem/tracytest",
+    "require": {
+        "tracy/tracy": "@dev"
+    }
+}
